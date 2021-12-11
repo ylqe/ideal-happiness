@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MedReminder</string>
+    <string name="settings">Settings</string>
+    <string name="newMed">Add New Medication</string>
+    <string name="medName">Name</string>
+    <string name="medType">Type</string>
+    <string name="medQty">Quantity</string>
+    <string name="medTime">Time</string>
+    <string name="confirm">Confirm</string>
+    <string-array name="medTypeList">
+        <item>tablets</item>
+        <item>liquid</item>
+        <item>capsules</item>
+    </string-array>
+</resources>
